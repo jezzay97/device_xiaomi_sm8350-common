@@ -788,3 +788,7 @@ vendor/bin/cnss-daemon
 vendor/etc/init/init.vendor.wlan.rc
 vendor/etc/wifi/aoa_cldb_falcon.bin
 vendor/etc/wifi/aoa_cldb_swl14.bin
+
+# Camera
+vendor/lib64/libmialgoengine.so
+vendor/lib64/android.hardware.graphics.allocator@3.0.so
